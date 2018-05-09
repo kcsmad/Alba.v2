@@ -1,0 +1,24 @@
+﻿{
+  "errors": [
+    {
+      "occurrenceDate": "08/05/2018T22:50:30",
+      "code": "ORA-27037",
+      "description": "unable to obtain file status"
+    },
+    {
+      "occurrenceDate": "07/05/2018T22:50:30",
+      "code": "ORA-1537",
+      "description": "signalled during: CREATE TABLESPACE EFORM_DSV_DATA DATAFILE"
+    },
+    {
+      "occurrenceDate": "07/05/2018T22:50:30",
+      "code": "ORA-1543",
+      "description": "signalled during: CREATE TABLESPACE GEPI_DSV_INDEX DATAFILE"
+    },
+    {
+      "occurrenceDate": "07/05/2018T22:50:30",
+      "code": "ORA-1109",
+      "description": "signalled during: ALTER DATABASE CLOSE NORMAL"
+    }
+  ]
+}
